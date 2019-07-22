@@ -11,7 +11,7 @@ Cats vs Dogs
 3. We are planning on writing a special article on our journey in using pytorch for building NNs, as this will be extremely helpful for the people who are beginning their journey in this sphere.
 4. The next meet up will be held on Friday UTC 2:30 PM
 
-## How to contribute
+# How to contribute
 1. Fork the repo
 2. Make the new changes in your cloned version of the repo.
 3. And send pull request using "New Pull Request" button.
